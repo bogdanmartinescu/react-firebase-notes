@@ -1,3 +1,3 @@
-# Noted
+#React + Firebase notes app
 
-Starter files for a Let's Code Along video series.
+just run ```gulp```
